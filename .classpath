@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="examples"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.3/crawler4j-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/apache-mime4j-core-0.7.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/apache-mime4j-dom-0.7.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/boilerpipe-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/commons-compress-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/je-4.0.92.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/metadata-extractor-2.4.0-beta-1.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/tika-core-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/crawler4j-3.x-dependencies/tika-parsers-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
